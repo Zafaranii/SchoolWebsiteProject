@@ -1,0 +1,137 @@
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/appsettings.Development.json
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/appsettings.json
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Day 10.staticwebassets.runtime.json
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Day 10
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Day 10.deps.json
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Day 10.runtimeconfig.json
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Day 10.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Day 10.pdb
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Azure.Core.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Azure.Identity.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Humanizer.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.CodeDom.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/Day 10.csproj.AssemblyReference.cache
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/Day 10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/Day 10.AssemblyInfoInputs.cache
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/Day 10.AssemblyInfo.cs
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/Day 10.csproj.CoreCompileInputs.cache
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/Day 10.MvcApplicationPartsAssemblyInfo.cache
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/Day 10.RazorAssemblyInfo.cache
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/Day 10.RazorAssemblyInfo.cs
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/staticwebassets.build.json
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/staticwebassets.development.json
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/staticwebassets/msbuild.Day 10.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/staticwebassets/msbuild.build.Day 10.props
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Day 10.props
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Day 10.props
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/scopedcss/bundle/Day 10.styles.css
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/scopedcss/projectbundle/Day 10.bundle.scp.css
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/Day 10.csproj.Up2Date
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/Day 10.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/refint/Day 10.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/Day 10.pdb
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/Day 10.genruntimeconfig.cache
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/obj/Debug/net8.0/ref/Day 10.dll
+/Users/za3farani/Desktop/Marwan/ITI DOT NET/Day 10/Day 10/bin/Debug/net8.0/wwwroot/lib/jquery/dist/jquery.js

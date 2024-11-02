@@ -1,0 +1,81 @@
+﻿<Properties StartupConfiguration="{0D9084B9-8D69-4BD6-8656-6BBB3DE51A34}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day 10/Views/Course/Edit.cshtml">
+    <Files>
+      <File FileName="Day 10/Program.cs" />
+      <File FileName="Day 10/Models/Student.cs" />
+      <File FileName="Day 10/Models/Instructor.cs" />
+      <File FileName="Day 10/Models/Department.cs" Line="17" Column="1" />
+      <File FileName="Day 10/Models/Course.cs" />
+      <File FileName="Day 10/Models/crsResult.cs" />
+      <File FileName="Day 10/Migrations/SchoolContextModelSnapshot.cs" />
+      <File FileName="Day 10/Context/SchoolContext.cs" />
+      <File FileName="Day 10/Controllers/InstructorController.cs" />
+      <File FileName="Day 10/Controllers/StudentController.cs" />
+      <File FileName="Day 10/Views/Instructor/GetAll.cshtml" />
+      <File FileName="Day 10/Views/Instructor/Details.cshtml" />
+      <File FileName="Day 10/Views/Student/GetAll.cshtml" />
+      <File FileName="Day 10/Views/Student/Details.cshtml" />
+      <File FileName="Day 10/Views/Home/Privacy.cshtml" />
+      <File FileName="Day 10/Views/Home/Index.cshtml" />
+      <File FileName="Day 10/Views/Student/New.cshtml" />
+      <File FileName="Day 10/Views/Student/Edit.cshtml" />
+      <File FileName="Day 10/Views/Instructor/Edit.cshtml" />
+      <File FileName="Day 10/Views/Instructor/New.cshtml" />
+      <File FileName="Day 10/Controllers/HomeController.cs" />
+      <File FileName="Day 10/Views/_ViewImports.cshtml" />
+      <File FileName="Day 10/Views/_ViewStart.cshtml" />
+      <File FileName="Day 10/Views/Shared/_Layout.cshtml" />
+      <File FileName="Day 10/Controllers/DepartmentController.cs" />
+      <File FileName="Day 10/Models/ErrorViewModel.cs" />
+      <File FileName="Day 10/Views/Shared/_Layout.cshtml.css" />
+      <File FileName="Day 10/Views/Shared/_MainLayout.cshtml" />
+      <File FileName="Day 10/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="Day 10/Views/Course/Details.cshtml" Line="1" Column="1" />
+      <File FileName="Day 10/Views/Course/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="Day 10/Views/Course/GetAll.cshtml" />
+      <File FileName="Day 10/Views/Course/New.cshtml" />
+      <File FileName="Day 10/Views/Department/Details.cshtml" />
+      <File FileName="Day 10/Views/Department/Edit.cshtml" />
+      <File FileName="Day 10/Views/Department/GetAll.cshtml" />
+      <File FileName="Day 10/Views/Department/New.cshtml" />
+      <File FileName="Day 10/Views/Shared/Error.cshtml" />
+      <File FileName="Day 10/Controllers/crsResultController.cs" />
+      <File FileName="Day 10/Views/crsResult/New.cshtml" />
+      <File FileName="Day 10/Controllers/CourseController.cs" Line="1" Column="1" />
+      <File FileName="Day 10/Validators/UniqueAttribute.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day 10" expanded="True">
+            <Node name="Day 10" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Validators" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Course" expanded="True">
+                  <Node name="Edit.cshtml" selected="True" />
+                </Node>
+                <Node name="crsResult" expanded="True" />
+                <Node name="Department" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Instructor" expanded="True" />
+                <Node name="Student" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Day_22010 PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

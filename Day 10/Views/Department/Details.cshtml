@@ -1,0 +1,8 @@
+﻿@model Department
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.name</h5>
+        <p class="card-text">@Model.Manager</p>
+        @Html.ActionLink("Back", "GetAll", "Instructor", new { id = Model.Id }, new { @class = "btn btn-primary" })
+    </div>
+</div>

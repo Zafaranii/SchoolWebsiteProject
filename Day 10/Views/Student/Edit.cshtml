@@ -1,0 +1,53 @@
+﻿@model Student
+@{
+
+    SelectList deptOptions = new SelectList(ViewBag.depts, "Id", "name");
+}
+<form method="post" action="/Student/saveEdit">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <div class="form-group">
+        @*@Html.LabelFor(s=>s.name)*@
+        @*@Html.TextBoxFor(s => s.name, new {style = "color:red",@class="form-control"})*@
+        <label asp-for="name"></label>
+        <input asp-for="name" class="form-control" />
+        <span asp-validation-for="name" style="color:rebeccapurple"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="age"></label>
+        <input asp-for="age" class="form-control" />
+        <span asp-validation-for="age" style="color:rebeccapurple"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="parentNum"></label>
+        <input asp-for="parentNum" class="form-control" />
+        <span asp-validation-for="parentNum" style="color:rebeccapurple"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="image"></label>
+        <input asp-for="image" class="form-control" />
+        <span asp-validation-for="image" style="color:rebeccapurple"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Department"></label>
+        @*<input type="text" name="DeptId" value="@Model?.dept_id" class="form-control">*@
+        <select name="dept_id" class="form-control" asp-items="deptOptions">
+            @*@foreach (Department d in ViewBag.depts)
+                {
+                    <option value="@d.Id">@d.name</option>
+                }*@
+        </select>
+        <span asp-validation-for="Department" style="color:rebeccapurple"></span>
+
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+@section Scripts{
+    <script src="/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+}

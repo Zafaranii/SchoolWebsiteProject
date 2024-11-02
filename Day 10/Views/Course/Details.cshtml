@@ -1,0 +1,10 @@
+﻿@model Course
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.name</h5>
+        <p class="card-text">@Model.minDegree</p>
+        <p class="card-text">@Model.Department</p>
+
+        @Html.ActionLink("Back", "GetAll", "Course", new { id = Model.Id }, new { @class = "btn btn-primary" })
+    </div>
+</div>

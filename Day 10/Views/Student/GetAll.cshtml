@@ -1,0 +1,45 @@
+﻿@model List<Student>
+
+<a asp-action ="New" asp-controller="Student" class="btn btn-outline-primary">New</a>
+<br/>
+<br/>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Age</th>
+            <th scope="col">Grade</th>
+            <th scope="col">Parent Number</th>
+            <th scope="col">Image</th>
+
+
+        </tr>
+    </thead>
+    @foreach (var m in Model)
+        {
+    <tbody>
+        <tr>
+            <td>@m.Id</td>
+            <td>@m.name</td>
+            <td>@m.age</td>
+            @*<td>@m.grade</td>*@
+            <td>@m.parentNum</td>
+            <td>@m.image</td>
+            <td><a asp-controller="Student" asp-action ="Details" asp-route-id="@m.Id" asp-route-name="@m.name" class="btn btn-outline-info">Details</a></td>
+            <td><a asp-controller="Student" asp-action="Edit" asp-route-id="@m.Id"  class="btn btn-outline-dark">Edit</a></td>
+            <td>
+                <form method="post" asp-controller="Student" asp-action="Delete" style="display:inline;">
+                    <input type="hidden" name="id" value="@m.Id" />
+                    <button type="submit" class="btn btn-outline-danger" onclick="return confirm('Are you sure you want to delete this Student?');">
+                        Delete
+                    </button>
+                </form>
+            </td>
+            <td></td>
+        </tr>
+
+    </tbody>
+       }
+</table>

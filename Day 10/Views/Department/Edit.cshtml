@@ -1,0 +1,26 @@
+﻿@model Department
+
+<form method="post" action="/Department/saveEdit">
+    <div class="form-group">
+        <label asp-for="name"></label>
+        <input asp-for="name" class="form-control" />
+        <span asp-validation-for="name" style="color:rebeccapurple"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Manager"></label>
+        <input asp-for="Manager" class="form-control" />
+        <span asp-validation-for="Manager" style="color:rebeccapurple"></span>
+
+    </div>
+
+
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts{
+    <script src="/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+}

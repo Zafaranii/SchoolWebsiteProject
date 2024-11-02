@@ -1,0 +1,49 @@
+﻿@model crsResult
+@{
+
+    SelectList stusOptions = new SelectList(ViewBag.stus, "Id", "name");
+    SelectList crsOptions = new SelectList(ViewBag.crs, "Id", "name");
+}
+<form method="post" action="/crsResult/saveNew">
+
+    <div class="form-group">
+        <label asp-for="Course"></label>
+        @*<input type="text" name="DeptId" value="@Model?.dept_id" class="form-control">*@
+        <select name="course_id" class="form-control" asp-items="crsOptions">
+            @*@foreach (Department d in ViewBag.depts)
+                {
+                    <option value="@d.Id">@d.name</option>
+                }*@
+        </select>
+        <span asp-validation-for="Course" style="color:rebeccapurple"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Student"></label>
+        @*<input type="text" name="DeptId" value="@Model?.dept_id" class="form-control">*@
+        <select name="student_id" class="form-control" asp-items="stusOptions">
+            @*@foreach (Department d in ViewBag.depts)
+                {
+                    <option value="@d.Id">@d.name</option>
+                }*@
+        </select>
+        <span asp-validation-for="Student" style="color:rebeccapurple"></span>
+
+    </div>
+    <div class="form-group">
+        @*@Html.LabelFor(s=>s.name)*@
+        @*@Html.TextBoxFor(s => s.name, new {style = "color:red",@class="form-control"})*@
+        <label asp-for="degree"></label>
+        <input asp-for="degree" class="form-control" />
+        <span asp-validation-for="degree" style="color:rebeccapurple"></span>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts{
+    <script src ="/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+}

@@ -1,0 +1,12 @@
+﻿@model Instructor
+<div class="card" style="width: 18rem;">
+    <img src="@Model.image" class="card-img-top" alt=".x..">
+    <div class="card-body">
+        <h5 class="card-title">@Model.name</h5>
+        <p class="card-text">@Model.address</p>
+        <p class="card-text">@Model.salary</p>
+        <p class="card-text">@Model.Department</p>
+
+        @Html.ActionLink("Back", "GetAll", "Instructor", new { id = Model.Id }, new { @class = "btn btn-primary" })
+    </div>
+</div>

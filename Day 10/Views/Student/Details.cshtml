@@ -1,0 +1,13 @@
+﻿@model Student
+
+<div class="card" style="width: 18rem;">
+    <img src="/Images/@Model.image" class="card-img-top" alt=".x..">
+    <div class="card-body">
+        <h5 class="card-title">@Model?.name</h5>
+        <p class="card-text">@Model?.Department?.name</p>
+        @*<a href="/Student/GetAll" class="btn btn-primary">Go Back</a>*@
+        @Html.ActionLink("Back", "GetAll", "Student", new { id = Model.Id }, new { @class = "btn btn-primary" })
+        @Html.ActionLink("Add Course", "New", "crsResult", new { id = Model.Id }, new { @class = "btn btn-primary" })
+
+    </div>
+</div>
